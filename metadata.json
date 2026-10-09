@@ -1,0 +1,6 @@
+{
+  "name": "Arvina Luxury Fashion & Apparel",
+  "description": "A modern, minimalist luxury e-commerce experience for Arvina — built for bold souls. Featuring curated apparel collections, timeless essentials, interactive lookbook, and cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
